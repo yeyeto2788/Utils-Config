@@ -16,7 +16,7 @@ with io.open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
 setup(
     name='Utils-Config',
     version='1.0.0',
-    use_scm_version=True,
+    use_scm_version=False,
     setup_requires=["setuptools_scm"],
     description='Library to use .json files as configuration objects using namedtuple.',
     long_description=long_description,
