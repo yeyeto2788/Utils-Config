@@ -23,7 +23,7 @@ setup(
     long_description_content_type='text/x-rst',
     author='Juan Biondi',
     author_email='juanernestobiondi@gmail.com',
-    python_requires='>=3.4.0',
+    python_requires='>=3.5.0',
     url='https://github.com/yeyeto2788/Utils-Config',
     packages=['utils_config'],
     include_package_data=True,
@@ -34,6 +34,6 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: 3.5',
     ],
 )
